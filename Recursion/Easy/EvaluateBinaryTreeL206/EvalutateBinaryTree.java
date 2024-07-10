@@ -13,7 +13,7 @@
  *     }
  * }
  */
-
+// DEPTH FIRST SEARCH ALGORITHM
  /*
  PROBLEM STATEMENT : You are given the root of a full binary tree with the following properties:
 
